@@ -99,3 +99,10 @@ body.dark {
 .checkbox:checked + .label .ball {
 	transform: translateX(24px);
 }
+.cec{
+    position: absolute;
+    height: 100px;
+    top: 800px;
+    align-items: center;
+}
+    
